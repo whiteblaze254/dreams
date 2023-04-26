@@ -32,9 +32,8 @@ h1 {
     z-index: 1;
     font-size: 4rem;
     border: 1px solid palevioletred;
-    border-bottom: transparent;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-top-radius: 10px;
+    border-bottom-radius: 5px;
     background: rgba(0, 255, 255, 0.507);
 }
 .rem-intro {
