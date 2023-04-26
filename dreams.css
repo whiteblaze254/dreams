@@ -47,8 +47,6 @@ h1 {
 .rem-intro span a {
     color: initial;
     text-decoration: underline;
-}
-.rem-intro:hover a{
     animation: linkanimate 2s linear infinite;
 }
 @keyframes linkanimate  {
